@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Heyy, I'm Jaden
+# 👋 Heyyooo, I'm Jaden
+
+Your friendly neighborhood spi-coder!!!
 
 **Computer Systems Engineering student · Gaborone, Botswana 🇧🇼**
 
