@@ -6,7 +6,7 @@ Your friendly neighborhood spi-coder!!!
 
 **Computer Systems Engineering student · Gaborone, Botswana 🇧🇼**
 
-Building Java back-ends and Android apps, one project at a time.
+Building Java back-ends, front-ends and Android apps, one project at a time.
 
 ![Profile views](https://komarev.com/ghpvc/?username=JadenWBAC&label=Profile%20views&color=0e75b6&style=flat)
 
