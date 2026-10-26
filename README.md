@@ -1,5 +1,8 @@
 <div align="center">
 
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JadenWBAC&layout=compact)
+
+
 # 👋 Heyyooo, I'm Jaden!! 
 
 Your friendly neighborhood spi-coder!!!
